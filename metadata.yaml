@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41487
     wikipedia: http://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%BF%CE%BD%CF%8D%CF%83%CE%B9%CE%BF%CF%82_%CE%A3%CE%BF%CE%BB%CF%89%CE%BC%CF%8C%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42031#-----------------------------------------
 gutenberg_issued: '2013-02-06'
 gutenberg_type: Text
 identifiers:
