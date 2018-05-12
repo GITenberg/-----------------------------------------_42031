@@ -1,0 +1,28 @@
+_repo: '-----------------------------------------_42031'
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42031-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Solomos, Dionysios
+    alias: Σολωμός, Διονύσιος
+    birthdate: 1798
+    deathdate: 1857
+    gutenberg_agent_id: '41487'
+    url: http://www.gutenberg.org/2009/agents/41487
+    wikipedia: http://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%BF%CE%BD%CF%8D%CF%83%CE%B9%CE%BF%CF%82_%CE%A3%CE%BF%CE%BB%CF%89%CE%BC%CF%8C%CF%82
+description: ''
+gutenberg_issued: '2013-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42031'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek poetry, Modern'
+title: Διονυσίου Σολωμού - Άπαντα τα Ευρισκόμενα
+url: http://www.gutenberg.org/ebooks/42031
